@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "Gym Membership - Basic",
+      "description": "Access to gym facilities during off-peak hours.",
+      "features": ["Off-peak access", "Locker rental", "Fitness assessment"],
+      "price": 2999
+        
+    },
+    {
+      "id": 2,
+      "name": "Personal Training - Standard",
+      "description": "One-on-one training session with a certified personal trainer plus additional perks.",
+      "features": ["60-minute session", "Custom workout plan", "Nutrition consultation", "Fitness assessment"],
+      "price":  8999
+        
+    },
+    {
+      "id": 3,
+      "name": "Group Fitness Classes - Premium",
+      "description": "Access to group fitness classes during all hours, plus additional perks.",
+      "features": ["All-hours access", "Locker rental", "Access to gym facilities", "Personal training sessions"],
+      "price":  4999
+
+    }
+  ]
+  
